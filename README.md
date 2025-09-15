@@ -1,6 +1,6 @@
 # C# Project
 ### About
-C# (pronounced "C-Sharp") is a modern, powerful and versatile object-oriented programming language developed by Microsoft that is widely used for various types of applications. It is designed to run on the .NET Framework and is known for its simplicity, versatility, and powerful features. Its ease of learning, strong community support, and modern features make it an excellent choice for both beginners and experienced developers.
+C# (pronounced "C-Sharp") is a modern, powerful and versatile object-oriented programming language developed by Microsoft that is widely used for various types of applications. It is designed to run on the .NET Framework and is known for its simplicity, versatility.
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Vtb3Q5aW1iYThhdjYzZHJudDk0NmZ4a21wM242bTc0ZmlmanprNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjV21HHvPKqDQtwY/giphy.gif" alt="みつは"/>
 <hr>
